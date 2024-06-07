@@ -2,7 +2,7 @@
 /*
 Plugin Name: Cachestatic
 Plugin URI:
-Description: 
+Description: This is a simple cache plugin for WordPress to get "static content". Alpha version. Read README.md
 Version: 0.1
 Author: Yoan De Macedo
 Author URI: http://yoandemacedo.com
