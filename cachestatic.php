@@ -3,7 +3,7 @@
 Plugin Name: Cachestatic
 Plugin URI:
 Description: 
-Version: 1.0
+Version: 0.1
 Author: Yoan De Macedo
 Author URI: http://yoandemacedo.com
 License: GPL3
