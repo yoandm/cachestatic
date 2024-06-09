@@ -274,7 +274,7 @@ License: GPL3
         }
 
 
-       public function foo_buffer_callback($buffer){
+        public function foo_buffer_callback($buffer){
             if($this->isCache){
                 file_put_contents($this->currentCachePath . 'index.html', $buffer);
             }
@@ -282,7 +282,7 @@ License: GPL3
             return $buffer;
          }   
 
-         public function shutdown(){
+        public function shutdown(){
              ob_end_flush();
          }
     }
